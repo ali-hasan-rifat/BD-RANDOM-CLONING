@@ -1,4 +1,4 @@
-# BD-RANDOM-CLONING
+## INSTALLING
 
 apt update
 #
@@ -10,7 +10,7 @@ pkg install python2
 #
 pkg install git
 #
-git clone https://github.com/R1F4T-2-0/Random-File-Cloner-Pro
+git clone https://github.com/R1F4T-2-0/BD-RANDOM-CLONING
 #
 ls
 #
