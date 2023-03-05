@@ -18,3 +18,4 @@ cd BD-RANDOM-CLONING
 #
 python BD-RENDOM.py
 #
+[![20230305-185708.jpg](https://i.postimg.cc/3JLR1Qx6/20230305-185708.jpg)](https://postimg.cc/TpDf2Smq)
