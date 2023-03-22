@@ -1,4 +1,6 @@
 [![result.gif](https://i.postimg.cc/j2x42VQs/result.gif)](https://postimg.cc/7GR2tWWc)
+
+[![200w-1.webp](https://i.postimg.cc/bNbLGfFH/200w-1.webp)](https://postimg.cc/9rmySK2r)
 ## INSTALLING
 
 - apt update
