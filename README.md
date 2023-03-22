@@ -1,4 +1,4 @@
-[![result.gif](https://i.postimg.cc/j2x42VQs/result.gif)](https://postimg.cc/7GR2tWWc)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=BD-RANDOM-CLONING+)](https://git.io/typing-svg)://postimg.cc/7GR2tWWc)
 
 
 ## INSTALLING
