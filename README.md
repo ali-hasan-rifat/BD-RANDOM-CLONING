@@ -26,3 +26,4 @@
 [![20230305-185708.jpg](https://i.postimg.cc/3JLR1Qx6/20230305-185708.jpg)](https://postimg.cc/TpDf2Smq)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70909&width=435&lines=BD-RANDOM-CLONING+)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
