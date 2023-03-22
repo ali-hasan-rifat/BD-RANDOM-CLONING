@@ -1,3 +1,4 @@
+[![result.gif](https://i.postimg.cc/j2x42VQs/result.gif)](https://postimg.cc/7GR2tWWc)
 ## INSTALLING
 
 - apt update
